@@ -1,4 +1,4 @@
-# langchain-intro
+# langchain-experiments
 
 ```
 pip install langchain
